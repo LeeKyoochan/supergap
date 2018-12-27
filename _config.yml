@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "SuperGap"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "SuperGap"
 description              : "SEOUL10"
 url                      : "https://LeeKyoochan.github.io"
 baseurl                  : "/supergap"
@@ -103,7 +103,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "SuperGap"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
   location         : "Somewhere"
