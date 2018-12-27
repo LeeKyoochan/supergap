@@ -4,7 +4,7 @@
 ---
 * 팀원들 사진
 
-<img>![i](/picture/1.jpg)</img>
+<img>![i](/picture/1.png)</img>
 ---
 * 이름 : 최재형
 * 별명 : 거북이
