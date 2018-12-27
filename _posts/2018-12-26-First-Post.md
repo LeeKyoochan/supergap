@@ -1,5 +1,6 @@
 ---
 title: Design thinking
+date: 2018-12-26 00:00:00
 ---
 <p>
 1주차에서는 design thinking을 하였습니다.
