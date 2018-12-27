@@ -1,8 +1,5 @@
 ---
-layout: post
 title:  "2주차 쳇봇_MoMs"
-#date:   2018-12-21 16:27:50 +0900
-categories: jekyll update
 ---
 # MOMs
 ## Introduction
