@@ -4,7 +4,7 @@
 ---
 * 팀원들 사진
 
-<img>![1](https://user-images.githubusercontent.com/40291366/50468999-fd1dd280-09ed-11e9-86fe-3e99915ce130.png)
+<img>![1](https://user-images.githubusercontent.com/40291366/50469083-44a45e80-09ee-11e9-9206-b1ad7fc64782.png)
 </img>
 ---
 * 이름 : 최재형
