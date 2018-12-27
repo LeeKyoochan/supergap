@@ -1,5 +1,5 @@
 ---
-title: 2주차 챗봇 MOMS
+title: MOMS
 ---
 # MOMs
 ## Introduction
