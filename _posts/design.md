@@ -1,5 +1,5 @@
 ---
-title: 바보
+title: design thinking
 ---
 
 # 왜why?
