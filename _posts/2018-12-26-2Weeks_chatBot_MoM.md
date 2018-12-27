@@ -12,16 +12,14 @@ title: MOMS
 * openpyxl
 * Slackclient
 * Beautiful Soup
-
 ---
-
 ## How to Use?
 
 * 날짜 + A or B + 식단
 
- * 오늘/내일/모레 + A or B + 식단
+* 오늘/내일/모레 + A or B + 식단
 
- * 날짜 or 오늘/내일/모레 + 먹을까요?
+* 날짜 or 오늘/내일/모레 + 먹을까요?
 
 ---
 ## DEV INTRO
@@ -29,6 +27,5 @@ title: MOMS
 * HaeIn Oh
   
 ---
-
 ## Comments
 * Bot을 만들면서 즐거웠습니다. 짧은 시간이었지만 이것저것 구현할 수 있었습니다. 이용해 주셔서 감사합니다.
