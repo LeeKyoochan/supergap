@@ -1,117 +1,50 @@
 ---
 title: design thinking
 ---
+<p>
+1주차에서는 design thinking을 하였습니다.
+</p>
 
-### 공감
 <table>
   <thead>
     <tr>
-      <th>Syntax</th>
-      <th>Description</th>
-      <th>Example</th>
+      <th>단계</th>
+      <th>  정의  </th>
+      <th>활용 Tool</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>&lt;h1&gt; ~ &lt;h6&gt;</td>
-      <td>제목</td>
-      <td>&lt;h1&gt; Hello, SSAFY!</td>
+      <td rowspan = "2">공감(Empathize)</td>
+      <td rowspan = "2"> '김영화' 를 위해 요구사항을 파악하는 단계</td>
+      <td> 1. 페르소나 : 특정 사용자 그룹을 대표하는 가상인물 설정 니즈 찾기  </td>
     </tr>
     <tr>
-      <td># ~ ######</td>
-      <td>제목</td>
-      <td># Hello, SSAFY!</td>
+    <td>  2. 고객 여정맵 : 고객이 어떤 경험을 하는지 시각화하여 문제가 되는 지점을 파악하는 활동 </td>
     </tr>
     <tr>
-      <td>*text*</td>
-      <td>이탤릭체</td>
-      <td>SSAFY는 Samsung SW Academy for Youth의 *줄임말*입니다.</td>
+      <td>문제 정의</td>
+      <td> 김영화의 불편함에 대해 정의하고 분석하는 단계 </td>
+      <td> 어떻게 여러개의 영화 극장 브랜드를 비교해서 사용할 수 있을까??
+     </td>
     </tr>
     <tr>
-      <td>**text**</td>
-      <td>강조</td>
-      <td>**절대** 지각하지 말아 주세요!!</td>
+      <td  rowspan = "2">아이디어 도출</td>
+      <td rowspan = "2">아이디어를 자유롭게 발산하는 과정</td>
+      <td> 브레인 라이팅: 각자의 아이디어를 포스티잇에 작성하여 아이디어 도출  </td>
     </tr>
     <tr>
-      <td>~~text~~</td>
-      <td>취소선</td>
-      <td>오늘 오후 수업을 특별히 ~~13시~~ 14시부터 시작하겠습니다.</td>
+    <td>아이디어보드 : 스토리텔링을 시각화하여 아이디어 도출</td>
     </tr>
     <tr>
-      <td>&gt;</td>
-      <td>인용</td>
-      <td>드디어 메일을 받았습니다.<br />&gt;“합격입니다.”</td>
+      <td> 시제품 제작 </td>
+      <td> 목업툴을 이용하여 프로토타입 제작 </td>
+      <td> 발사믹 : 발사믹 목업툴을 활용하여 프로토타입 제작</td>
     </tr>
     <tr>
-      <td>\</td>
-      <td>특수기호 사용</td>
-      <td>별표(\*)를 2개 사용해 글자를 강조할 수 있습니다.</td>
+      <td>테스트</td>
+      <td>우리가 제작한 프로토타입을 예비 사용자들에게 피드백</td>
+      <td>월드 카페 : 다른팀과의 교류를 통해 문제점 발견하고 수정,보완</td>
     </tr>
   </tbody>
 </table>
----
-### 문제 정의
-<table>
-  <thead>
-    <tr>
-      <th>Syntax</th>
-      <th>Description</th>
-      <th>Example</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>&lt;h1&gt; ~ &lt;h6&gt;</td>
-      <td>제목</td>
-      <td>&lt;h1&gt; Hello, SSAFY!</td>
-    </tr>
-    <tr>
-      <td># ~ ######</td>
-      <td>제목</td>
-      <td># Hello, SSAFY!</td>
-    </tr>
-    <tr>
-      <td>*text*</td>
-      <td>이탤릭체</td>
-      <td>SSAFY는 Samsung SW Academy for Youth의 *줄임말*입니다.</td>
-    </tr>
-    <tr>
-      <td>**text**</td>
-      <td>강조</td>
-      <td>**절대** 지각하지 말아 주세요!!</td>
-    </tr>
-    <tr>
-      <td>~~text~~</td>
-      <td>취소선</td>
-      <td>오늘 오후 수업을 특별히 ~~13시~~ 14시부터 시작하겠습니다.</td>
-    </tr>
-    <tr>
-      <td>&gt;</td>
-      <td>인용</td>
-      <td>드디어 메일을 받았습니다.<br />&gt;“합격입니다.”</td>
-    </tr>
-    <tr>
-      <td>\</td>
-      <td>특수기호 사용</td>
-      <td>별표(\*)를 2개 사용해 글자를 강조할 수 있습니다.</td>
-    </tr>
-  </tbody>
-</table>
----
-### 아이디어 도출
-
-* 정의
-
-* 활용툴
----
-### 시제품 제작
-
-* 정의
-
-* 활용툴
----
-### 테스트
-
-* 정의
-
-* 활용툴
