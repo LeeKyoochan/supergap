@@ -1,5 +1,5 @@
 ---
-title: design thinking
+title: Design thinking
 ---
 <p>
 1주차에서는 design thinking을 하였습니다.
