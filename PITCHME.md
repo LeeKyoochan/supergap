@@ -4,7 +4,8 @@
 ---
 * 팀원들 사진
 
-<img>![i](/picture/1.png)</img>
+<img>![1](https://user-images.githubusercontent.com/40291366/50468999-fd1dd280-09ed-11e9-86fe-3e99915ce130.png)
+</img>
 ---
 * 이름 : 최재형
 * 별명 : 거북이
